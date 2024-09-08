@@ -1,6 +1,5 @@
 #include "includes.h"
 
-// 29948 400000
 int main() 
 {
 	DWORD pID, baseModule, localPlayerPtr;
